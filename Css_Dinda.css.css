@@ -1,0 +1,41 @@
+* {
+    font-family: Calibre;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+form {
+    align-content: center;
+    width: 1200px;
+    background-color: #9C254D;
+    border-radius: 10px;
+    color: white;
+}
+
+input {
+    border-radius: 10px;
+}
+
+p {
+    color: white;
+}
+
+.desain-layout {
+    text-align: center;
+}
+
+.box {
+    width: 250px;
+    border-radius: 10px;
+}
+
+button {
+    border: none;
+    background-color: #FF7000;
+    color: white;
+    border-radius: 10px;
+}
+
+h6 {
+    float: left;
+}
